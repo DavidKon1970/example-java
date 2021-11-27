@@ -22,7 +22,9 @@ public class Task2 {
             for (int index = 0; index < size; index++) {
                 objsOut.writeObject(array[index]);
             }
-            out.write();
+            // ToDo
+            // Исправления
+            //out.write();
             System.out.print("Write Successful");
         } catch (IOException e1) {
             System.out.println("Error during reading/writing");
