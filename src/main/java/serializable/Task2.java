@@ -23,6 +23,7 @@ public class Task2 {
                 objsOut.writeObject(array[index]);
             }
             out.write();
+            // Новый комментарий
             System.out.print("Write Successful");
         } catch (IOException e1) {
             System.out.println("Error during reading/writing");
