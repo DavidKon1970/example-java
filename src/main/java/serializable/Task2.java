@@ -28,6 +28,7 @@ public class Task2 {
             // Новый код
             // Новый код 1
             // Новый код 2
+            // Новый код над которым мы долго работали
             System.out.print("Write Successful");
         } catch (IOException e1) {
             System.out.println("Error during reading/writing");
